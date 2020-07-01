@@ -1,2 +1,2 @@
 # Resort
-## React js is used
+## React js 
